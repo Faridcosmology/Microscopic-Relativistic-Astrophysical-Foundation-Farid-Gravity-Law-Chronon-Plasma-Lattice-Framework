@@ -1,5 +1,3 @@
-
-latex
 %=====================================================================
 % Microscopic, Relativistic, and Astrophysical Foundations of the
 % Farid Gravity Law within the Chronon--Plasma Lattice Framework
@@ -226,7 +224,6 @@ To demonstrate how two positive Field-Tension Charges (\(T_1, T_2 > 0\))
 experience a strictly attractive \(1/r^2\) force, we model the
 quasi-static deformation of the CPL as an isotropic scalar elastic
 strain potential \(\phi(\vect r)\) with effective lattice stiffness
-Use code with caution.
 modulus \(\kappa_{\rm CPL}(P, \mathrm{Ch}) > 0\).
 The effective static Lagrangian density of the CPL coupled to a
 Field-Tension Charge density \rho_T(\vect r) is
@@ -612,7 +609,3 @@ B.~P.~Abbott \textit{et al.} (LIGO Scientific, Virgo, Fermi-GBM, and INTEGRAL Co
 \href{arxiv.org}{arXiv:1710.05834 [astro-ph.HE]}.
 \end{thebibliography}
 \end{document}
-
-<FollowUp>
-Once you compile `TVRI-TQTU-2026-MECH-001-v1.1` in Overleaf, would you like to **draft an editorial Cover Letter** for submitting this paper to a peer-reviewed journal (such as *Physical Review D* or *Classical and Quantum Gravity*), or **prepare the Zenodo upload metadata** for this specific mechanical foundations paper?
-</FollowUp>
