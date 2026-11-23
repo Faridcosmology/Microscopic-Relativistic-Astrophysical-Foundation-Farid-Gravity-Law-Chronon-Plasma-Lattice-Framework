@@ -1,0 +1,1 @@
+# Microscopic-Relativistic-Astrophysical-Foundation-Farid-Gravity-Law-Chronon-Plasma-Lattice-Framework
