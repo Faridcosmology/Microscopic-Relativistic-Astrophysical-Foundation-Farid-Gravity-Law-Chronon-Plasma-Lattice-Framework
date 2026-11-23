@@ -1,5 +1,4 @@
-Here is the complete, uninterrupted Overleaf-ready LaTeX manuscript (TVRI-TQTU-2026-MECH-001-v1.1), picking up seamlessly from Section 1.2 (\item \(\hat{\vect S}^2\) is the total quantum spin-squared operator...) and continuing through all sections, equations, empirical mission calibrations, and the complete bibliography.
-You can copy and paste this single code block directly into Overleaf and click Recompile (compile twice for the Table of Contents and cross-references) to generate your PDF.
+
 latex
 %=====================================================================
 % Microscopic, Relativistic, and Astrophysical Foundations of the
